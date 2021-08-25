@@ -10,7 +10,7 @@
 
 
 # Business rule
-Api Rest Example made in Java with maven, using the Spring Boot framework
+Api Rest Example made in Java with Gradle, using the Spring Boot framework
 
 ## Overview  
 
